@@ -1,0 +1,19 @@
+{
+    "redodev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-demo-app-redodev-233502-authRole",
+            "UnauthRoleArn": "arn:aws:iam::346216507272:role/amplify-demo-app-redodev-233502-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::346216507272:role/amplify-demo-app-redodev-233502-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-demo-app-redodev-233502-deployment",
+            "UnauthRoleName": "amplify-demo-app-redodev-233502-unauthRole",
+            "StackName": "amplify-demo-app-redodev-233502",
+            "StackId": "arn:aws:cloudformation:us-east-1:346216507272:stack/amplify-demo-app-redodev-233502/6132b410-0737-11ea-a541-0a4db9a5d67f"
+        },
+        "categories": {
+            "auth": {
+                "demoapp3035658e": {}
+            }
+        }
+    }
+}
